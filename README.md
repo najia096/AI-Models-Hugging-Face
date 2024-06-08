@@ -17,6 +17,14 @@ This repo contains Python scripts that demonstrate text generation and image cap
 
 ## How to Use
 
+### Setting up `.env` for Hugging Face API Token
+
+1. Create a `.env` file in the root directory of the project.
+2. Obtain your Hugging Face API token from [Hugging Face](https://huggingface.co/) if you haven't already.
+3. Open the `.env` file and add the following line:
+   HUGGINGFACEHUB_API_TOKEN=YOUR_API_TOKEN_HERE
+   Replace `YOUR_API_TOKEN_HERE` with your actual Hugging Face API token.
+
 ### app.py
 1. Install the required dependencies: `pip install -r requirements.txt`.
 2. Set up your `.env` file with your Hugging Face API token.
