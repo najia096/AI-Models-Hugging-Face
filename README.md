@@ -1,4 +1,4 @@
-# Text and Image Generation with Hugging Face Models
+# Image Captioning and Text Generation with Hugging Face Models
 
 Welcome to our repository! This repository contains Python scripts that demonstrate text generation and image captioning using Hugging Face models. We provide two scripts:
 
@@ -9,11 +9,11 @@ Welcome to our repository! This repository contains Python scripts that demonstr
 
 ### app.py - Image Captioning
 
-![app.py Demo](demo/app.gif)
+![app.py Demo](./app.gif)
 
 ### app2.py - Text Generation
 
-![app2.py Demo](demo/app2.gif)
+![app2.py Demo](./app2.gif)
 
 ## How to Use
 
