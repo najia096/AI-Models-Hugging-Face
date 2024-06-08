@@ -1,6 +1,6 @@
 # Image Captioning and Text Generation with Hugging Face Models
 
-Welcome to our repository! This repository contains Python scripts that demonstrate text generation and image captioning using Hugging Face models. We provide two scripts:
+This repo contains Python scripts that demonstrate text generation and image captioning using Hugging Face models. There are two scripts:
 
 - **app.py**: This script generates captions for images using the Salesforce BLIP Image Captioning model via the Hugging Face Hub API.
 - **app2.py**: This script allows users to choose between two text generation models (`gpt2` or `EleutherAI/gpt-neo-2.7B`) and generates text based on user input.
